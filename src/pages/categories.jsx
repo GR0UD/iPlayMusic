@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import Layout from "../components/layout";
 import Header from "../components/header";
 import Dock from "../components/dock";
-import "../styles/pages/_Categories.scss";
+import "../styles/pages/_categories.scss";
 import Icons from "../utils/Icons";
 
 const categoriesData = [
